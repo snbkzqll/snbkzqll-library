@@ -1,11 +1,11 @@
 {
-    "name": "Blinker",
+    "name": "sn_Blinker",
     "description": "Build a easy way for your IoT project. Blinker library for embedded hardware. Works with Arduino, ESP8266, ESP32.",
     "keywords": "wifi, websocket, Bluetooth, mqtt",
     "authors": [
         {
-            "name": "i3water",
-            "url": "https://github.com/i3water",
+            "name": "snbkzqll",
+            "url": "https://github.com/snbkzqll",
             "maintainer": true
         }
     ],
